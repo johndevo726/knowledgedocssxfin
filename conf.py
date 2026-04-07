@@ -29,7 +29,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
-html_title = "Comcast Xfinity Log In to My Account: How Do I Access My Xfinity Email and What Can I Do With It?"
+html_title = "Comcast Xfinity Logs Ins to My Account: How Do I Access My Xfinity Email and What Can I Do With It?"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
